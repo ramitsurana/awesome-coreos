@@ -103,8 +103,12 @@ Projects
 
 rkt is the next-generation container manager for Linux clusters. Designed for security, simplicity, and composability within modern cluster architectures, rkt discovers, verifies, fetches, and executes application containers with pluggable isolation. rkt can run the same container with varying degrees of protection, from lightweight, OS-level namespace and capabilities isolation to heavier, VM-level hardware virtualization.
 
+  * [Getting Started with rkt](https://blog.codeship.com/getting-started-rkt/)
+  * [Running rkt on Kubernetes ](https://kismatic.com/technical/running-rkt-on-kubernetes/)
+
 
 ### [Etcd](https://github.com/coreos/etcd)
+### [Flannel](https://github.com/coreos/flannel)
 
 
 
