@@ -25,7 +25,7 @@ have made building this awesome-repo possible, Thank You very much guys !!
 
 > 
 
-_Source:_ [What is coreos](http://coreos.co/m)
+_Source:_ [What is coreos](http://coreos.com)
 
 
 ## History:
@@ -105,10 +105,13 @@ rkt is the next-generation container manager for Linux clusters. Designed for se
 
   * [Getting Started with rkt](https://blog.codeship.com/getting-started-rkt/)
   * [Running rkt on Kubernetes ](https://kismatic.com/technical/running-rkt-on-kubernetes/)
+  * [Playing with rkt and appc](http://theremotelab.com/blog/playing-with-rkt-and-appc/)
 
 
 ### [Etcd](https://github.com/coreos/etcd)
 ### [Flannel](https://github.com/coreos/flannel)
+### [Clair](https://github.com/coreos/clair)
+### [Torus](https://github.com/coreos/torus)
 
 
 
@@ -123,7 +126,9 @@ us with information*
 Slide Presentations
 =======================================================================
 
-*A slide is a single page of a presentation created with software such as PowerPoint or OpenOffice Impress.*
+*A slide is a single page of a presentation created with software such as PowerPoint/OpenOffice Impress/LibreOffice*
+
+* [Introduction to CoreOS](http://www.slideshare.net/ramitsurana/coreos-56469884)
 
 
 Videos
@@ -148,12 +153,18 @@ Amazing People
 =======================================================================
 
 * [Brandon Philips](https://twitter.com/BrandonPhilips), CTO at CoreOS
+* [Alex Polvi](https://twitter.com/polvi), CEO at CoreOS
+* [Brian RedBeard](https://github.com/brianredbeard)
+* [Derek Parker](https://github.com/derekparker)
+* [Derek Gonyeo](https://github.com/dgonyeo)
 
 
 Connecting with coreos
 =======================================================================
-
-
+* [Twitter](https://twitter.com/coreoslinux)
+* [LinkedIn]()
+* [IRC](irc://irc.freenode.org:6667/#coreos)
+* [Mailing List](https://groups.google.com/forum/#!forum/coreos-user)
 
 
 Conferences
