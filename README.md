@@ -121,6 +121,8 @@ Books
 *A written or printed work consisting of pages glued or sewn together along one side and bound in covers that provide
 us with information*
 
+* [Coreos in Action](https://www.manning.com/books/coreos-in-action)
+* [Mastering Coreos](https://www.packtpub.com/networking-and-servers/mastering-coreos)
 
 
 Slide Presentations
